@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Manrope-Regular";
+    src: url(../fonts/Manrope-Regular.otf) format(opentype);
+    font-style: normal;
+}
+@font-face {
+    font-family: "Manrope-Medium";
+    src: url(../fonts/Manrope-Medium.otf) format(opentype);
+    font-style: medium;
+}
