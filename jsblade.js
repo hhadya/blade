@@ -1631,7 +1631,7 @@ if (returnButton) {
         if (typeof startNamedTransition === 'function') {
             startNamedTransition('./shop.html');
         } else {
-            window.location.href = './sop.html';
+            window.location.href = './shop.html';
         }
     });
 }
