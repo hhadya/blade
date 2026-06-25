@@ -2353,6 +2353,7 @@ body {
     height: 27vw;
     margin-top: 5vw;
     margin-left: 27vw;
+    z-index: 100;
 }
 .return{
     position: absolute;
@@ -2360,6 +2361,7 @@ body {
     height: 4vw;
     margin-top: 36vw;
     margin-left: 39vw;
+    z-index: 100;
 }
 
 .zigzag_5{
