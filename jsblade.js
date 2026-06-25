@@ -1629,9 +1629,9 @@ if (returnButton) {
         e.preventDefault();
         e.stopPropagation(); 
         if (typeof startNamedTransition === 'function') {
-            startNamedTransition('./haut.html');
+            startNamedTransition('./shop.html');
         } else {
-            window.location.href = './haut.html';
+            window.location.href = './shop.html';
         }
     });
 }
